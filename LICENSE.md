@@ -1,4 +1,4 @@
-# 
+# scalping bot for derivatives top Bot - perpetual-trading and webhook-support offers the most advanced scalping bot for derivatives, with perpetual-trading and webhook-support.
 
 
 
